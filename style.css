@@ -13,3 +13,8 @@ body {
 section {
     padding-top: 5rem;
 }
+
+nav li {
+    display: inline;
+    list-style-type: none;
+}
